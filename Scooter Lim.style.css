@@ -1,0 +1,76 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+.firstimm{
+  height: 70px;
+  margin-top: 100px;
+}
+
+
+.container{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  height: 50px;
+  color: black;
+}
+
+
+.first{
+  background-color: lime;
+  padding: 10px;
+  margin: 0;
+}
+
+
+header > h1{
+  color: lime;
+  margin: 15px;
+  background-color: black;
+}
+
+main{
+  text-align: left ;
+  margin-top: 15px;
+  padding: black;
+  color: white;
+
+}
+
+h2{
+  display: inline-block;
+}
+
+
+
+#yellowrow{
+  height: 20px;
+  width: 33%;
+  background-color: yellow;
+  border-radius: 5%;
+
+}
+
+#greenrow{
+  height: 20px;
+  width: 60%;
+  background-color: green;
+  border-radius: 5%;
+
+}
+#redrow{
+  height: 20px;
+  width: 15%;
+  background-color: red;
+  border-radius: 5%;
+
+}
+
+.checkbox{
+  background-color: rgba(0, 0, 0, 0.5);
+}
